@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Credentials / config
+creds.json
+*.pem
+*.key
+
+# Local data
+*.xlsx
+*.xls
+*.csv
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
