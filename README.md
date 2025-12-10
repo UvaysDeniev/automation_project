@@ -34,4 +34,4 @@ A modular Python tool that:
 
 ```bash
 pip install -r requirements.txt
-python -m automation-project.main# automation_project
+python -m automation-project.main
