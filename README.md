@@ -35,3 +35,8 @@ A modular Python tool that:
 ```bash
 pip install -r requirements.txt
 python -m automation-project.main
+```
+
+<img width="2039" height="751" alt="image" src="https://github.com/user-attachments/assets/69d89d6a-61d3-44fc-9bc7-4a8e3b0821c8" />
+<img width="1764" height="700" alt="image" src="https://github.com/user-attachments/assets/2468148f-6fae-4f2f-a90c-8c42addd410d" />
+
